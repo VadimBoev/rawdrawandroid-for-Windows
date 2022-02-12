@@ -12,7 +12,6 @@ I mainly touched on the Makefile, I had to fix and change something there to bui
 - **Build-tools (i installed 31.0.0)**  
 - **NDK (i installed 23.0.7599858, it can be newer)**  
 - **7-zip**  
-and the most important thing:
 - **you should install gnuwin32 3.81 (and newer)**  
 Review the Makefile and change the relative paths to your folders. You may also have to change the path to 7-zip  
   
