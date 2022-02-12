@@ -14,6 +14,11 @@ I mainly touched on the Makefile, I had to fix and change something there to bui
 - **7-zip**  
 - **you should install gnuwin32 3.81 (and newer)**  
 Review the Makefile and change the relative paths to your folders. You may also have to change the path to 7-zip  
+Нou may also need to recreate the signature file.  
+For build apk start Command Line Windows (cmd.exe)  
+Use "cd" and navigate to the path to your project  
+Use the command "path to GNUmake", I had it like this: "C:\Program Files (x86)\GnuWin32\bin\make.exe"  
+Then the process of compiling and assembling the project will go on  
   
 # Thanks
 CnLohr <3
