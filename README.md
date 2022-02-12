@@ -13,6 +13,7 @@ I mainly touched on the Makefile, I had to fix and change something there to bui
 - **NDK (i installed 23.0.7599858, it can be newer)**  
 - **7-zip**  
 - **you should install gnuwin32 3.81 (and newer)**  
+____
 Review the Makefile and change the relative paths to your folders. You may also have to change the path to 7-zip  
 Нou may also need to recreate the signature file.  
 For build apk start Command Line Windows (cmd.exe)  
